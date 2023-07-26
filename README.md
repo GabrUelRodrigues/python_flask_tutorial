@@ -1,5 +1,5 @@
 # Python Flask Tutorial
-## Simple notes webapp made using Python and the Flask web framework
+## Simple notes webapp made using Python and Flask
 
 This project is an example webapp made by following a YouTube tutorial by __Tech With Tim__ on how to build a complete webapp in Python using the Flask web framework. It's features include:
 
